@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 💻 **Full-Stack Developer** crafting seamless end-to-end web experiences
-- 📱 **Android Developer** building native apps with Java & Kotlin
+- 📱 **Android Developer** building native apps with Java
 - 📊 **Data Analytics Enthusiast** turning raw data into actionable insights
 - 🌱 Currently diving deeper into **System Design**, **ML pipelines**, and **Cloud Architecture**
 - ⚡ Believer in *"Ship fast, iterate faster."*
